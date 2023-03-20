@@ -8,6 +8,8 @@ This space is dedicated for the Advanced Software Development in Python reading 
 
 [Data Structures and Algorithms](data-structures.md)
 
+[Engineering Readings](engineering-readings.md)
+
 [Class 1 Reading Notes](class-01.md)
 
 [Class 2 Reading Notes](class-02.md)
