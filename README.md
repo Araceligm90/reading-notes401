@@ -31,7 +31,7 @@ This space is dedicated for the Advanced Software Development in Python reading 
 
 
 
-Please refer to my repository for the previous reading notes listed below:
+Please refer to my GitHub repositories for the previous reading notes listed below:
 
 ## Code 102 - Intro to Software Development.
 
