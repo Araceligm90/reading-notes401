@@ -10,6 +10,8 @@ This space is dedicated for the Advanced Software Development in Python reading 
 
 [Engineering Readings](engineering-readings.md)
 
+[The Command Line](the-command-line.md)
+
 [Class 1 Reading Notes](class-01.md)
 
 [Class 2 Reading Notes](class-02.md)
