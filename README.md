@@ -12,7 +12,7 @@ This space is dedicated for the Advanced Software Development in Python reading 
 
 [The Command Line](the-command-line.md)
 
-[Relational Databases & SQL](relational-databases-md)
+[Relational Databases & SQL](relational-databases.md)
 
 [Class 1 Reading Notes](class-01.md)
 
