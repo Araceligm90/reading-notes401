@@ -1,4 +1,4 @@
-#ETHICS IN TECH
+# ETHICS IN TECH
 
 ### The code I am still ashamed of.
 
